@@ -10,10 +10,10 @@ Runs on eclipse IDE using in-built run function. Launcher must be run to build a
 
 NOTE: Please only press the 'START' button once launched as multiplayer is not functional
 
-### Build Path 2019-Java-Group28/src/TileGame/Launcher
+###### Build Path 2019-Java-Group28/src/TileGame/Launcher
 
 ## Features:
-GUI development
-AI Enemies
-Multi-threading
-OOP
+- GUI development
+- AI Enemies
+- Multi-threading
+- OOP
